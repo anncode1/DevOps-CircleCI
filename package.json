@@ -1,0 +1,16 @@
+{
+  "name": "docker",
+  "version": "1.0.0",
+  "description": "ejemplo",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "anncode",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mocha": "^3.5.0",
+    "supertest": "^3.0.0"
+  }
+}
